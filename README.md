@@ -12,7 +12,7 @@
 ## Práticas adotadas
 * SOLID
 * DDD
-* CQRS(Apenas Commands, pois as regras)
+* CQRS(Apenas Commands, devidos as regras de negócio serem simples, apenas por demonstração)
 * Domínios Ricos
 * Validações por Notificações
 * Orientado a Testes (Testes Unitários da camada Handler)
